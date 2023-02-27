@@ -1,7 +1,9 @@
 # Airplane-Demo
 
 NOTE: To use Google Maps(or some other maps), Tile+ plugin should be added("tile_plus.zip" is provided)
+
 NOTE: QGIS file and Python file should be in the same folder
+
 NOTE: All required libraries are provided with "requirements.txt"
 
 1)Open QGIS file
