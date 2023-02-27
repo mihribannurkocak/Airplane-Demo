@@ -9,3 +9,4 @@ To use Google Maps(or some other maps), Tile+ plugin should be added("tile_plus.
 3)Run Python code
 
 NOTE: QGIS file and Python file should be in the same folder.
+NOTE: All required libraries are provided with "requirements.txt"
